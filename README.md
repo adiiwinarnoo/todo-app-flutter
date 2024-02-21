@@ -1,3 +1,3 @@
-# todo_app
+Todo List App with flutter.
 
-A new Flutter project.
+Using Provider as State Management.
