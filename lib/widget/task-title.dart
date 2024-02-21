@@ -7,9 +7,7 @@ class ListTextTitle extends StatelessWidget {
   String taskTitle;
   final void Function(bool?)? getCallback;
   final Function() onLongPressCallback;
-
-
-
+  
   @override
   Widget build(BuildContext context) {
     return ListTile(
